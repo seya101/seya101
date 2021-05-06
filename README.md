@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seya101
-- 👀 I’m interested in creating a amazing website and designing
+- 👀 I’m interested in creating and designing amazing websites
 - 🌱 I’m currently learning new web development tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
