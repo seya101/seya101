@@ -2,7 +2,6 @@
 - 👀 I’m interested in creating and designing amazing websites
 - 🌱 I’m currently exploring latest web development tools
 - 💞️ I’m looking to collaborate on building websites/systems
-- 📫 How to reach me: Email: hoseacorpuz@gmail.com 
 
 <!---
 - 🌐 My Website: https://seya101.github.io/portfolio/
