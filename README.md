@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seya</h1>
-- 👀 I’m interested in creating and designing amazing websites
-- 🌱 I’m currently exploring the latest web development tools
-- 💞️ I’m looking to collaborate on building websites/systems
+👋 Interested in creating and designing amazing websites |🌱 Currently exploring the latest web development tools | 💻 Looking to collaborate on building websites/systems
 
 
 # 💻 Tech Stack:
@@ -13,7 +11,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💰 Support
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/HoseaCorpuz) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/HoseaCorpuz) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=seya101&icon=2&color=0)](https://visitcount.itsvg.in)
